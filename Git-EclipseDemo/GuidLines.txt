@@ -30,3 +30,5 @@ Go to project pers > rght click > pull(w/o question marks)
 ***************
 Check in local remotely created file in local as well :)
 
+
+https://www.youtube.com/watch?v=bcMPotY18Uo&t=1098s
