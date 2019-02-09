@@ -1,1 +1,32 @@
 New Line Added
+
+Create One Project in Eclipse
+then First Create repository in your GitHub account
+copy https path from clone/download - Github
+open Git perspective 
+click on clone Git repo 
+paste url > next
+Go to project perspective rght click > teams > share projects
+select the repo url > finish
+
+
+-----Push-----submit code
+Make some changes in file 
+open Git pers
+open Git staging tab
+move all files from unstaged to staged
+comment in commit message
+click on commit and push btn
+***********
+Check the changes into Git hub
+
+----Pull-----Download the code
+Make some changes to Git hub
+go to framework create file and commit new file
+file created in Git hub 
+
+how to push into local ??
+Go to project pers > rght click > pull(w/o question marks)
+***************
+Check in local remotely created file in local as well :)
+
