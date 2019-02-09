@@ -8,7 +8,6 @@ public class DemoClass {
 		 * Hello This is Just Demo for Git and Eclipse Integration
 		 */
 		
-		
 		/*
 		 * It's small Change
 		 */
